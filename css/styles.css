@@ -1,0 +1,17 @@
+.important {
+  font-weight: bold;
+  color: blue;
+  font-style: italic;
+  font-family: monospace;
+}
+
+.underline {
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+  color: red;
+}
+ img {
+   width: 380px;
+   height: 300px;
+ }
