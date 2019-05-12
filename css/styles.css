@@ -35,3 +35,23 @@ a {
   font-size: 110%;
   color: orange;
 }
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50.33%;
+  padding: 2px;
+}
+
+.sidebar  {
+  width: 30%
+  float:right;
+  background-color: orange;
+}
+@media screen and (max-width: 500px)  {
+  .column {
+    width: 100%;
+  }
+}
