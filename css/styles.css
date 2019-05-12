@@ -9,13 +9,29 @@
   font-style: italic;
   font-weight: bold;
   text-decoration: underline;
-  color: red;
+  color: yellow;
 }
  img {
    width: 380px;
    height: 300px;
  }
 
-html body {
-  background-color: rgba (0,0,0,1.00);
+.about {
+  font-size: 20px;
+}
+body  {
+  padding: 4px;
+  background-color: #008b8b;
+}
+
+.my-class {
+  margin: 20px;
+  padding: 30px;
+  /* background-color: orange; */
+}
+a {
+  font-family: cursive;
+  font-weight: bolder;
+  font-size: 110%;
+  color: orange;
 }
