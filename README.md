@@ -28,10 +28,9 @@ If you run into any issues while navigating this site, please email cfbaptiste@g
 
 ## Technologies Used
 
-html
-css
-MARKDOWN
-bootstrap
+* _CSS_
+* _MARKDOWN_
+* _Bootstrap_
 
 ### Legal
 
