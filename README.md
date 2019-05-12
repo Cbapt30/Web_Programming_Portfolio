@@ -10,10 +10,7 @@ The webpage informs visitors about me, including my interests and background, an
 
 ## Setup/Installation Requirements
 
-* _Click on link_
-* _Click on link_
-* _Click on link_
-* _Click on link_
+* Click on link https://cbapt30.github.io/Web_Programming_Portfolio/
 
 
 
