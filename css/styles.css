@@ -23,6 +23,9 @@ body  {
   padding: 4px;
   background-color: #008b8b;
 }
+.list {
+  color: yellow;
+}
 
 .my-class {
   margin: 20px;
@@ -30,7 +33,7 @@ body  {
   /* background-color: orange; */
 }
 a {
-  font-family: cursive;
+  font-family: sans-serif;
   font-weight: bolder;
   font-size: 110%;
   color: orange;
