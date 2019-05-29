@@ -4,6 +4,16 @@
   font-style: italic;
   font-family: monospace;
 }
+h1  {
+  color: white;
+}
+h2  {
+  color: white;
+}
+
+p {
+  color: white;
+}
 
 .underline {
   font-style: italic;
@@ -12,8 +22,8 @@
   color: yellow;
 }
  img {
-   width: 380px;
-   height: 300px;
+   width: 200px;
+   height: 150px;
  }
 
 .about {
@@ -21,7 +31,7 @@
 }
 body  {
   padding: 4px;
-  background-color: #008b8b;
+  background-color: #900C3F;
 }
 .list {
   color: yellow;
@@ -33,10 +43,10 @@ body  {
   /* background-color: orange; */
 }
 a {
-  font-family: sans-serif;
-  font-weight: bolder;
-  font-size: 110%;
-  color: orange;
+    font-family: GradientType;
+    font-weight: bolder;
+    font-size: 110%;
+    color: orange;
 }
 
 .row {
